@@ -47,7 +47,7 @@
 
 | URL del Repositorio |
 |----------------------|
-| https://github.com/orgs/PecuarioPro/repositories |
+| https://github.com/orgs/BookSphere-Hub/repositories |
 
 
 
@@ -434,23 +434,24 @@ Ronaldo
     
     
 
-| Task                                       | Lectores Ávidos Particulares o Estudiantes | Instituciones Educativas |
-|--------------------------------------------|--------------------------------------------|---------------------------|
-| Explorar Colección de Libros               | Always                                     | Sometimes                 |
-| Buscar y Filtrar Libros                    | Always                                     | Never                     |
-| Leer Reseñas y Calificaciones              | Sometimes                                  | Always                    |
-| Leer Muestras de Libros                    | Always                                     | Never                     |
-| Comprar o Descargar Libros                 | Always                                     | Never                     |
-| Dejar Comentarios y Reseñas                | Always                                     | Never                     |
-| Participar en Discusiones sobre Libros     | Always                                     | Never                     |
-| Seguir a Otros Usuarios                    | Sometimes                                  | Sometimes                 |
-| Cargar Libros Digitales                    | Never                                      | Always                    |
-| Actualizar Información del Libro           | Never                                      | Always                    |
-| Gestionar Perfil y Obras Publicadas        | Sometimes                                  | Always                    |
-| Acceder a Estadísticas de Lectura          | Sometimes                                  | Always                    |
-| Colaborar en Proyectos Educativos          | Never                                      | Always                    |
-| Gestionar Derechos y Licencias             | Never                                      | Always                    |
-| Verificación y Aprobación de Contenidos    | Never                                      | Always                    |
+| User Task                                       | Lectores Ávidos Particulares o Estudiantes (Frecuencia) | Lectores Ávidos Particulares o Estudiantes (Importancia) | Instituciones Educativas (Frecuencia) | Instituciones Educativas (Importancia) |
+|--------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|---------------------------------------|----------------------------------------|
+| Explorar Colección de Libros               | Always                                                | High                                                    | Sometimes                             | Medium                                 |
+| Buscar y Filtrar Libros                    | Always                                                | High                                                    | Never                                 | Low                                    |
+| Leer Reseñas y Calificaciones              | Sometimes                                             | Medium                                                  | Always                                | High                                   |
+| Leer Muestras de Libros                    | Always                                                | High                                                    | Never                                 | Low                                    |
+| Comprar o Descargar Libros                 | Always                                                | High                                                    | Never                                 | Low                                    |
+| Dejar Comentarios y Reseñas                | Always                                                | High                                                    | Never                                 | Low                                    |
+| Participar en Discusiones sobre Libros     | Always                                                | High                                                    | Never                                 | Low                                    |
+| Seguir a Otros Usuarios                    | Sometimes                                             | Medium                                                  | Sometimes                             | Medium                                 |
+| Cargar Libros Digitales                    | Never                                                 | Low                                                     | Always                                | High                                   |
+| Actualizar Información del Libro           | Never                                                 | Low                                                     | Always                                | High                                   |
+| Gestionar Perfil y Obras Publicadas        | Sometimes                                             | Low                                                     | Always                                | High                                   |
+| Acceder a Estadísticas de Lectura          | Sometimes                                             | Low                                                     | Always                                | High                                   |
+| Colaborar en Proyectos Educativos          | Never                                                 | Low                                                     | Always                                | High                                   |
+| Gestionar Derechos y Licencias             | Never                                                 | Low                                                     | Always                                | High                                   |
+| Verificación y Aprobación de Contenidos    | Never                                                 | Low                                                     | Always                                | High                                   |
+
 
 
     
